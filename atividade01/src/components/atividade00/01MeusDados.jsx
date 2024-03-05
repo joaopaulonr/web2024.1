@@ -26,7 +26,7 @@ const MeusDadosArrowFunction = () => {
       <h1>{universidade}</h1>
     </div>
   );
-};
+}
 
 const MeusDadosArrowFunctionNoReturn = () => (
   <div>
@@ -34,7 +34,7 @@ const MeusDadosArrowFunctionNoReturn = () => (
     <h1>Seu Curso</h1>
     <h1>Nome da Sua Universidade</h1>
   </div>
-);
+)
 
 class MeusDadosClass extends React.Component {
   render() {
